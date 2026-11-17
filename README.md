@@ -37,10 +37,10 @@ Skill 的完整指令见 [`skills/client-pitch/SKILL.md`](skills/client-pitch/SK
 将项目发布到 GitHub 后，在 **Codex 聊天窗口**输入（不是在 Mac 终端输入）：
 
 ```text
-用 $skill-installer 安装 https://github.com/yvovo1219/civil-litigation-strategy-skill/tree/main/skills/client-pitch
+用 $skill-installer 安装 https://github.com/yyovo1219/civil-litigation-strategy-skill/tree/main/skills/client-pitch
 ```
 
-示例链接对应 `yvovo1219/civil-litigation-strategy-skill` 的 `main` 分支。**请先确认链接能打开仓库中的 `skills/client-pitch` 目录。** 如果实际仓库或分支不同，请打开对应目录并复制地址栏中的链接。
+示例链接对应 `yyovo1219/civil-litigation-strategy-skill` 的 `main` 分支。**请先确认链接能打开仓库中的 `skills/client-pitch` 目录。** 如果实际仓库或分支不同，请打开对应目录并复制地址栏中的链接。
 
 安装完成后，在 Codex 对话中输入 `$client-pitch` 并提供案情。若当前会话未显示该 Skill，打开新的 Codex 会话再试。
 
